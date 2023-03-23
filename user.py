@@ -1,3 +1,6 @@
 class Program:
-    def showMainMethod(self):
+    def showMainMenu(self):
+        pass
+
+    def showAccountMenu(self):
         pass
